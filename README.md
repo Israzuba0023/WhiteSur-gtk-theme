@@ -80,8 +80,6 @@ Este repositório é apenas uma cópia para fins de estudo e personalização no
 
 ````
 
----
-
 ### ✅ Como adicionar ao repositório
 
 1. No terminal:
@@ -101,9 +99,6 @@ git push origin main
 ```
 
 ---
-
-Se quiser que eu também te gere o `README.md` para o repositório de **wallpapers**, posso fazer já. Desejas?
-
 
 #### 1. Run command to fix it
 
