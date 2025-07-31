@@ -78,7 +78,6 @@ Criado por [vinceliuice](https://github.com/vinceliuice) – todos os créditos 
 
 Este repositório é apenas uma cópia para fins de estudo e personalização no Ubuntu.
 
-````
 
 ### ✅ Como adicionar ao repositório
 
